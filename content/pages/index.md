@@ -23,7 +23,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/Testimonial.png
+      url: /images/1794495.jpg
       altText: Hero section image
     styles:
       self:
